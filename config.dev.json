@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "deamondinosaure@gmail.com",
+    "password": "deamon013",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100042292561861",
+    "100080355760429",
     "YOUR_SECOND_UID",
     "YOUR_THIRD_UID",
     "YOUR_FOURTH_UID",
@@ -29,11 +29,11 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "OWNER": "Ayush Shukla",
-  "AGE": "22",
+  "AGE": "15",
   "GENDER": "MALE",
-  "nickNameBot": "⍟🄺🄸🄽🄶🄱🄾🅃㋛︎",
-  "FACEBOOK": "https://www.facebook.com/100042292561861",
-  "prefix": "/",
+  "nickNameBot": " ʬɸʬ Blåzė Nøvã ʬɸʬ",
+  "FACEBOOK": "https://www.facebook.com/100080355760429",
+  "prefix": "€",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -41,10 +41,10 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Kolkata",
+  "timeZone": "Africa/Abidjan",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
+      "email": "faverdiNkiku@gmail.com ",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
